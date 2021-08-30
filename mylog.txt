@@ -3,5 +3,6 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 100 L01 Week 00 OS Zoom Meeting
-ZCZC W00 05 L01 Assignment #01 : Creating Public Repository
-ZCZC W00 05 L02 Assignment #02 : Creating Log
+ZCZC W00 05 L02 Assignment #01 : Creating Public Repository
+ZCZC W00 05 L03 Assignment #02 : Creating Log
+ZCZC W00 05 L04  Assignment #03 : Creating Github Page
