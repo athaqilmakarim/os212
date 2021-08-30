@@ -9,3 +9,4 @@ ZCZC W00 05 L11 Assignment #01 : Creating Public Repository
 ZCZC W00 05 L12 Assignment #02 : Creating Log
 ZCZC W00 05 L13 Assignment #03 : Creating Github Page
 ZCZC W00 05 L14 Assignment #04 : Course Registration
+ZCZC W00 10 L15 Assignment $05 : Finished the first document of the assignment 05 which is "What Defines an Operating System ?"
