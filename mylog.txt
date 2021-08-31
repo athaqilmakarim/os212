@@ -13,3 +13,4 @@ ZCZC W00 30 L15 Assignment $05 : Finished the first document of the assignment 0
 ZCZC W00 45 L04 Trying to improve my page by reading some source and try to implement it
 ZCZC W00 100 L02 Introduction Database Zoom Meeting
 ZCZC W00 30 L06 Updating my notion
+ZCZC W00 100 L02 PBD Introduction Zoom Meeting
