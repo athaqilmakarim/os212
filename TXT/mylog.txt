@@ -16,3 +16,10 @@ ZCZC W00 30 L06 Updating my notion
 ZCZC W00 100 L02 PBD Introduction Zoom Meeting
 ZCZC W00 15 L02 Week 00 OS QnA Zoom Meeting
 ZCZC W00 100 L02 Week 00 Discrete Math Zoom Meeting
+ZCZC W01 100 L02 Week 01 OS Zoom Meeting
+ZCZC W01 100 L02 Week 01 Database Zoom Meeting
+ZCZC W01 60 L70 Studying PBD Discussion Result
+ZCZC W01 60 L70 Studying Discrete Math 2 Discussion Result
+ZCZC W01 100 L02 PBD Zoom Meeting
+ZCZC W01 100 L02 Discrete Math 2 Zoom Meeting
+ZCZC W01 120 L70 Creating Weekly Essay PBD
