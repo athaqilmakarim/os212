@@ -23,3 +23,6 @@ ZCZC W01 60 L70 Studying Discrete Math 2 Discussion Result
 ZCZC W01 100 L02 PBD Zoom Meeting
 ZCZC W01 100 L02 Discrete Math 2 Zoom Meeting
 ZCZC W01 120 L70 Creating Weekly Essay PBD
+ZCZC W01 10 L11 Assignment #01 : Preparing the VirtualBox
+ZCZC W01 20 L12 Assignment #02 : Importing and installing the OVA file
+ZCZC W01 45 L13 Assignment #03 : Reading some study source also doing the gsgs
