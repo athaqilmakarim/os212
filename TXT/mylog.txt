@@ -23,6 +23,19 @@ ZCZC W01 60 L70 Studying Discrete Math 2 Discussion Result
 ZCZC W01 100 L02 PBD Zoom Meeting
 ZCZC W01 100 L02 Discrete Math 2 Zoom Meeting
 ZCZC W01 120 L70 Creating Weekly Essay PBD
+ZCZC W01 10 L31 Installing virtual box includeing the gnu/linux
 ZCZC W01 10 L11 Assignment #01 : Preparing the VirtualBox
 ZCZC W01 20 L12 Assignment #02 : Importing and installing the OVA file
 ZCZC W01 45 L13 Assignment #03 : Reading some study source also doing the gsgs
+ZCZC W01 30 L28 learning the usage of ssh, key-gen, and others
+ZCZC W01 20 L24 studying about bash, regex, SED, AWK
+ZCZC W01 120 L64 guidimg my friend to do the assignment
+ZCZC W01 20 L21 Trying to edit my log using virtualbox
+ZCZC W01 30 L06 GSGS more about git codes or command
+ZCZC W01 10 L22 Database weekly quiz
+ZCZC W01 20 L02 OS QnA session
+ZCZC W01 100 L02 Database synchronous session
+ZCZC W01 100 L02 PBD Discussion
+ZCZC W01 100 L02 Statprob zoom meeting
+ZCZC W01 50 L08 Statprob tutorial by Asdos
+ZCZC W01 150 L02 Calculus 2 synchronous session
