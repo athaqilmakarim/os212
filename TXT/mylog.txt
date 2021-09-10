@@ -29,8 +29,12 @@ ZCZC W01 20 L12 Assignment #02 : Importing and installing the OVA file
 ZCZC W01 45 L13 Assignment #03 : Reading some study source also doing the gsgs
 ZCZC W01 30 L28 learning the usage of ssh, key-gen, and others
 ZCZC W01 20 L24 studying about bash, regex, SED, AWK
-ZCZC W01 120 L64 guidimg my friend to do the assignment
+ZCZC W01 45 L14 Assignment #04 : Dress up my virtual guest
+ZCZC W01 30 L15 Assignment #05 : SSH keys and Git cloning
+ZCZC W01 20 L06 GSGS about the markdown language
+ZCZC W01 120 L64 guiding my friend to do the assignment
 ZCZC W01 20 L21 Trying to edit my log using virtualbox
+ZCZC W01 20 L17 Assignment #07 : Updating my log
 ZCZC W01 30 L06 GSGS more about git codes or command
 ZCZC W01 10 L22 Database weekly quiz
 ZCZC W01 20 L02 OS QnA session
