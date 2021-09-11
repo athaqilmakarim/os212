@@ -47,3 +47,5 @@ ZCZC W01 60 L05 Calculus 2 Pop Quiz 2
 ZCZC W01 45 L16 Assignment #06 : Dressing up your github page
 ZCZC W01 30 L18 Assignment #08 : bash, regex, sed, and awk
 ZCZC W01 35 L19 Assignment #09 : Read OSC 10 chapter 1, 2, and 18
+ZCZC W01 100 L70 Doing Discrete Math 2 assignment
+
