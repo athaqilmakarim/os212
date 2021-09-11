@@ -1,4 +1,4 @@
-[My Repository](https://github.com/athaqilmakarim/os212)|[My Log](https://athaqilmakarim.github.io/os212/TXT/mylog.txt)|[OS Related Links](https://github.com/athaqilmakarim/os212/links.md)
+[My Repository](https://github.com/athaqilmakarim/os212)|[My Log](https://athaqilmakarim.github.io/os212/TXT/mylog.txt)|[OS Related Links](links.md)
 
 
 Operating Systems 2021-2 (Odd Semester 2021/2022)
