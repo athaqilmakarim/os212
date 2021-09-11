@@ -6,7 +6,7 @@ permalink: /LINKS/
 # Operating Systems Important Links
 
 ## 1. [OS Main Site](https://os.vlsm.org/)
-Inside this side, you can see all of the material and contents of the
+Inside this site, you can see all of the material and contents of the
 Operating System 212 Course.
 
 ## 2. [What is an Operating System](https://whatis.techtarget.com/definition/operating-system-OS)
