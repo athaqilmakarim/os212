@@ -44,12 +44,12 @@ which I believe you guys will need it.
 Learning about cyber security, first you need to get to know what is cyber security. This site has a clear explanation about Cyber Security.
 
 #### 2. ***[Learn C Programming](https://www.programiz.com/c-programming)***
-This week we are introduced to C language, this website is providing most of the material regarding C languange, from the general definition until the<br> example of it
+This week we are introduced to C language, this website is providing most of the material regarding C languange, from the general definition until the<br> example of it.
 
 ### WEEK 03
 
 #### 1. ***[What is a File System and Why Are There So Many of Them](https://www.howtogeek.com/196051/htg-explains-what-is-a-file-system-and-why-are-there-so-many-of-them/)***
-This week we are talking about file system, this site provides us about what is a file system and answering the question why are there so many of them
+This week we are talking about file system, this site provides us about what is a file system and answering the question why are there so many of them.
 
 #### 2. ***[Defintion and Explanation of FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)***
 Also talking about FUSE which is very unfamiliar with me, this site really gives me the general idea and view about what FUSE is.
