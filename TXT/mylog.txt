@@ -61,3 +61,20 @@ ZCZC W02 120 L02 Statprob Zoom Meeting
 ZCZC W02 90 L02 Calculus Zoom Meeting
 ZCZC W02 60 L22 Calculus 2 Quiz
 ZCZC W02 60 L09 Doing OS week 2 assignment
+ZCZC W03 100 L02 Week 03 OS Zoom Meeting
+ZCZC W03 100 L02 PBD Zoom Meeting
+ZCZC W03 100 L05 Discrete math quiz
+ZCZC W03 50 L02 Discrete Math zoom meeting
+ZCZC W03 100 L02 Database zoom meeting
+ZCZC W03 100 L02 PBD Tutorial and Discussion
+ZCZC W03 120 L02 Statprob Zoom Meeting
+ZCZC W03 100 L02 Calculus Zoom Meeting
+ZCZC W03 60 L11 Assignment #01 : Read OSC10 
+ZCZC W03 60 L12 Assignment #02 : Try demos
+ZCZC W03 45 L13 Assignment #03 : Try previous midterm problems
+ZCZC W03 20 L14 Assignment #04 : Checking bash aliases
+ZCZC W03 45 L15 Assignment #05 : Add extra virtual disk
+ZCZC W03 30 L19 Assignment #09 : submitting my week 03 assignment
+ZCZC W03 20 L16 Assignment #06 : Updating my links
+ZCZC W03 15 L17 Assignment #07 : Review my peer links
+ZCZC W03 30 L18 Assignment #08 : Update mylog
