@@ -53,3 +53,11 @@ This week we are talking about file system, this site provides us about what is 
 
 #### 2. ***[Defintion and Explanation of FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)***
 Also talking about FUSE which is very unfamiliar with me, this site really gives me the general idea and view about what FUSE is.
+
+### WEEK 04
+#### 1. ***[Difference Between Logical and Physical Addressing](https://techdifferences.com/difference-between-logical-and-physical-address.html)***
+This week we are introduced to addressing in operating system, as I read the slides, there is a slide which discuss about logical and physcical address.<br> 
+In this website you can see the difference between them.
+
+#### 2. ***[Building and Using Static and Shared C Libraries](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)***
+We also learn about shared libraries, this site guides us to build and using shared libraries.
