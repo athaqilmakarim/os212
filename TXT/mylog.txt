@@ -95,3 +95,10 @@ ZCZC W04 30 L16 Assignment #06 : Update bookmark
 ZCZC W04 25 L18 Assignment #08 : Updating Log
 ZCZC W04 15 L19 Assignment #09 : Submitting assignment
 ZCZC W04 120 L09 Doing PBD Lab 03
+ZCZC W04 100 L02 Calculus Zoom Meeting
+ZCZC W04 60 L05 Calculus Quiz
+ZCZC W04 100 L09 Doing PBD Lab 03
+ZCZC W04 30 L17 Assignment #07 : Review my peer link
+ZCZC W04 15 L18 Assignment #08 : Update Log
+ZCZC W04 10 L19 Assignment #09 : Submitting assignment (finished)
+ZCZC W04 15 L04 Minor update on github page
