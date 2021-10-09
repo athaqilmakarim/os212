@@ -61,3 +61,12 @@ In this website you can see the difference between them.
 
 #### 2. ***[Building and Using Static and Shared C Libraries](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)***
 We also learn about shared libraries, this site guides us to build and using shared libraries.
+
+### WEEK 05
+### 1. ***[Virtual Memory in OS](https://www.guru99.com/virtual-memory-in-operating-system.html)***
+Okay this week we dive into virtual memory, as we are learning it on the operating system, we should know what is virtual memory in OS, how it works, why do<br>
+we need it, and so on. This site has a great explanation about those kind of questions.
+
+###2. ***[Page Replacement Algorithm](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)***
+In an operating system that uses paging for memory management, a page replacement algorithm is needed to decide which page needs to be replaced when new page<br> comes in. 
+
