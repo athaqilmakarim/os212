@@ -102,3 +102,31 @@ ZCZC W04 30 L17 Assignment #07 : Review my peer link
 ZCZC W04 15 L18 Assignment #08 : Update Log
 ZCZC W04 10 L19 Assignment #09 : Submitting assignment (finished)
 ZCZC W04 15 L04 Minor update on github page
+ZCZC W05 20 L05 OS Quiz
+ZCZC W05 100 L02 Week 04 OS Zoom Meeting
+ZCZC W05 100 L02 Database Zoom Meeting
+ZCZC W05 120 L09 Database Assignment
+ZCZC W05 100 L02 PBD Zoom Meeting
+ZCZC W05 100 L02 Discrete Math Zoom Meeting
+ZCZC W05 75 L22 Database Quiz
+ZCZC W05 100 L02 Database Zoom Meeting
+ZCZC W05 100 L02 PBD Discussion
+ZCZC W05 60 L21 Trying to Styling website using CSS Bootstrap
+ZCZC W05 30 L28 Weekly Contact OS using ssh
+ZCZC W05 30 L22 Statprob Quiz
+ZCZC W05 90 L02 Statprob Zoom Meeting
+ZCZC W05 40 L02 Database tutorial
+ZCZC W05 20 L22 Database Weekly Reflection Quiz
+ZCZC W05 120 L09 PBD Assignment
+ZCZC W05 60 L22 Calculus Pop Quiz
+ZCZC W05 60 L11 Assignment #01 : Reading OSC10 Chapter 10
+ZCZC W05 45 L12 Assignment #02 : Trying Demos 
+ZCZC W05 30 L13 Assignment #03 : Trying previous midterm problem
+ZCZC W05 45 L14 Assignment #04 : Low memory
+ZCZC W05 30 L15 Assignment #05 : Updating my links
+ZCZC W05 30 L16 Assignment #06 : Creating tips.md
+ZCZC W05 30 L03 Github Related 
+ZCZC W05 30 L04 Updating my github page
+ZCZC W05 20 L17 Assignment #07 : Reviewing my peer links
+ZCZC W05 30 L18 Assignment #08 : Updating log
+ZCZC W05 15 L19 Assignment #09 : submitting my week 05 assignment
