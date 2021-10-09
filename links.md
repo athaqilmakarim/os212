@@ -3,7 +3,7 @@ layout: "layout"
 permalink: /LINKS/
 ---
 
-[<<Back](https://athaqilmakarim.github.io/os212/)|[My Repository](https://github.com/athaqilmakarim/os212)|[My Log](https://athaqilmakarim.github.io/os212/TXT/mylog.txt)
+[<<Back](https://athaqilmakarim.github.io/os212/)|[My Repository](https://github.com/athaqilmakarim/os212)|[My Log](https://athaqilmakarim.github.io/os212/TXT/mylog.txt)|[My Weekly Rank](https://athaqilmakarim.github.io/os212/TXT/myrank.txt)|[Tips for This Course](tips.md)
 # Operating Systems Important Links
 ## Here are some links for those of you who are taking this course. I hope you find them useful and help you guys with it !
 
