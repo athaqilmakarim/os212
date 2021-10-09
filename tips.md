@@ -19,5 +19,5 @@ You will never know if you never try. Come on try it on your own way.
 #### 4. Don't forget to take rest.
 We know that you're a computer science student at the best uni in Indonesia. Don't overwork yourself, take a chill pill.
 
-#### 5. (Listen some music)[https://www.youtube.com/watch?v=bmVKaAV_7-A&ab_channel=JomaTech]
+#### 5. [Listen some music](https://www.youtube.com/watch?v=bmVKaAV_7-A&ab_channel=JomaTech)
 Doing assignments while listening to some beats is really relaxing, enjoy it.
