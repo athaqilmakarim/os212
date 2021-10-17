@@ -21,3 +21,6 @@ We know that you're a computer science student at the best uni in Indonesia. Don
 
 #### 5. [Listen some music](https://www.youtube.com/watch?v=bmVKaAV_7-A&ab_channel=JomaTech)
 Doing assignments while listening to some beats is really relaxing, enjoy it.
+
+#### 6. Read books as much as you can.
+In this modern era, book provided everywhere online, do tips number 2, and read the book !
