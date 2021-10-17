@@ -130,3 +130,26 @@ ZCZC W05 30 L04 Updating my github page
 ZCZC W05 20 L17 Assignment #07 : Reviewing my peer links
 ZCZC W05 30 L18 Assignment #08 : Updating log
 ZCZC W05 15 L19 Assignment #09 : submitting my week 05 assignment
+ZCZC W06 20 L05 OS Quiz
+ZCZC W06 100 L02 Database Zoom Meeting
+ZCZC W06 100 L02 PBD ZOOM Meeting
+ZCZC W06 100 L02 Discrete Math Zoom Meeting
+ZCZC W06 50 L02 Discrete Math Zoom Meeting
+ZCZC W06 120 L70 Database Group Assignment
+ZCZC W06 150 L70 PBD Midterm Project
+ZCZC W06 100 L02 PBD Discussion
+ZCZC W06 10 L09 OS Weekly Contact
+ZCZC W06 150 L02 Statprob Zoom Meeting
+ZCZC W06 100 L09 Statprob Exercise Midterm
+ZCZC W06 200 L09 Database Lab 
+ZCZC W06 120 L02 Calculus Zoom Meeting
+ZCZC W06 200 L09 Statprob HW 
+ZCZC W06 100 L11 Assignment #1 : Reading OSC10 chapt 4 and 3
+ZCZC W06 90 L12 Assignment #2 : Trying demos
+ZCZC W06 90 L13 Assignment #3 : Trying midterm problem
+ZCZC W06 45 L14 Assignment #4 : Forking and shared memory
+ZCZC W06 20 L15 Assignment #5 : Updating links
+ZCZC W06 15 L16 Assignment #6 : Updating my tips
+ZCZC W06 30 L17 Assignment #7 : Review my peer link
+ZCZC W06 50 L18 Assignment #8 : Updating my log
+ZCZC W06 20 L19 Assignment #9 : Submitting my assignment week 06 
