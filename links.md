@@ -70,3 +70,10 @@ we need it, and so on. This site has a great explanation about those kind of que
 #### 2. ***[Page Replacement Algorithm](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)***
 In an operating system that uses paging for memory management, a page replacement algorithm is needed to decide which page needs to be replaced when new page<br> comes in. 
 
+### WEEK 06
+#### 1. ***[Concurrency in Operating System](https://www.computer.org/csdl/magazine/co/1976/10/01647182/13rRUwwslyQ)***
+We are know learning about concurrency in operating system, may this website can help you guys regarding the topic because it provides the book about it.
+#### 2. ***[Concepts : Concurrency](https://sceweb.uhcl.edu/helm/RationalUnifiedProcess/process/workflow/ana_desi/co_cncry.htm)***
+Okay if you are too lazy to download the pdf book, here is the explanation about it provided by the web.
+#### 3. ***[Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)***
+This is a simple explanation and ideas about threads and concurrency, which also tells us about proccess vs threads.
