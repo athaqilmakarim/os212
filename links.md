@@ -77,3 +77,9 @@ We are know learning about concurrency in operating system, may this website can
 Okay if you are too lazy to download the pdf book, here is the explanation about it provided by the web.
 #### 3. ***[Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)***
 This is a simple explanation and ideas about threads and concurrency, which also tells us about proccess vs threads.
+
+### WEEK 07
+#### 1. ***[OS Proccess Synchronization Introduction](https://www.javatpoint.com/os-process-synchronization-introduction)***
+This week we are learning about synchronization in the operating system, this website provides you the introduction into it.
+#### 2. ***[Proccess Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&ab_channel=NesoAcademy)***
+This video also giving you the generan information about synchronization, if you guys prefer to watch than read, this is a great video.
