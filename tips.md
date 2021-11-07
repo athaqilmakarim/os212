@@ -24,3 +24,6 @@ Doing assignments while listening to some beats is really relaxing, enjoy it.
 
 #### 6. Read books as much as you can.
 In this modern era, book provided everywhere online, do tips number 2, and read the book !
+
+#### 7. Do it while you can.
+I did this assignment when I was in the campus, as long as you time don't forget to do your tasks !
