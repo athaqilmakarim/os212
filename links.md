@@ -83,3 +83,7 @@ This is a simple explanation and ideas about threads and concurrency, which also
 This week we are learning about synchronization in the operating system, this website provides you the introduction into it.
 #### 2. ***[Proccess Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&ab_channel=NesoAcademy)***
 This video also giving you the generan information about synchronization, if you guys prefer to watch than read, this is a great video.
+
+### WEEK 08
+#### 1. ***[Process Scheduling: Long, Medium, Short Term Scheduler](https://www.guru99.com/process-scheduling.html)***
+We are learning about Operating System Scheduling this week, this website provides you an easy explanation about the material.
