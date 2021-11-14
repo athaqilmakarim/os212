@@ -181,8 +181,8 @@ ZCZC W08 100 L21 Trying Calculus Class Participation Assignment
 ZCZC W08 120 L11 Reading OSC10 Chapter 5
 ZCZC W08 60 L12 Trying demos
 ZCZC W08 50 L13 Trying Midterm Problems
-ZCZC W08 100 L14 Assignment 04 : Linux from scratch chapter 1-4
-ZCZC W08 40 L15 Assignemnt 05 : Compiling a cross-toolchain
+ZCZC W08 120 L14 Assignment 04 : Linux from scratch chapter 1-4
+ZCZC W08 90 L15 Assignemnt 05 : Compiling a cross-toolchain
 ZCZC W08 30 L16 Assignment 06 : Updating links
 ZCZC W08 20 L18 Assignment 08 : Reviewing peer links
 ZCZC W08 50 L19 Assignment 09 : Updating log
