@@ -187,3 +187,22 @@ ZCZC W08 30 L16 Assignment 06 : Updating links
 ZCZC W08 20 L18 Assignment 08 : Reviewing peer links
 ZCZC W08 50 L19 Assignment 09 : Updating log
 ZCZC W08 30 L20 Assignment 10 : Submitting assignment
+ZCZC W07 30 L19 Assignment 09 : Submitting assignment
+ZCZC W09 20 L05 Quiz OS
+ZCZC W09 60 L02 OS Zoom Meeting
+ZCZC W09 100 L02 PBD Zoom Meeting
+ZCZC W09 100 L02 Discrete Math Zoom Meeting
+ZCZC W09 50 L02 Discrete Math Zoom Meeting
+ZCZC W09 120 L02 Database Zoom Meeting
+ZCZC W09 150 L02 Statprob Zoom Meeting
+ZCZC W09 150 L02 Calculus Zoom Meeting
+ZCZC W09 100 L21 Trying Calculus Class Participation Assignment
+ZCZC W09 120 L11 Reading OSC10 Chapter 11
+ZCZC W09 60 L12 Trying demos
+ZCZC W09 50 L13 Trying FinalTerm Problems
+ZCZC W09 120 L14 Assignment 04 : Linux from scratch 11.0
+ZCZC W09 90 L15 Assignemnt 05 : Update Links
+ZCZC W09 30 L16 Assignment 06 : Update Tips
+ZCZC W09 45 L17 Assignment 07 : Reviewing peer links
+ZCZC W09 50 L18 Assignment 08 : Updating log
+ZCZC W09 30 L19 Assignment 09 : Submitting assignment
