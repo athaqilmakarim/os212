@@ -87,3 +87,10 @@ This video also giving you the generan information about synchronization, if you
 ### WEEK 08
 #### 1. ***[Process Scheduling: Long, Medium, Short Term Scheduler](https://www.guru99.com/process-scheduling.html)***
 We are learning about Operating System Scheduling this week, this website provides you an easy explanation about the material.
+
+### WEEK 09
+#### 1. ***[Where does the firmware first look for a Linux bootloader program?](https://ostoday.org/linux/your-question-where-does-the-firmware-first-look-for-a-linux-bootloader-program.html)***
+This week we are learning about linux bootloader, here is the general explanation about it.
+#### 2. ***[What is Bootloader](https://linuxhint.com/what-is-a-boot-loader/)***
+Here is also a great example
+
