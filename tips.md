@@ -27,3 +27,6 @@ In this modern era, book provided everywhere online, do tips number 2, and read 
 
 #### 7. Do it while you can.
 I did this assignment when I was in the campus, as long as you time don't forget to do your tasks !
+
+#### 8. Make sure read something before doing something.
+I almost didn't do this week's assignment, because I updated my macOS to a newer version, that somehow virtualBox don't want to start.
