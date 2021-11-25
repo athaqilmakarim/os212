@@ -30,3 +30,6 @@ I did this assignment when I was in the campus, as long as you time don't forget
 
 #### 8. Make sure read something before doing something.
 I almost didn't do this week's assignment, because I updated my macOS to a newer version, that somehow virtualBox don't want to start.
+
+#### 9. Note every deadline !!
+This is very important because, many of us now forgetting about the deadline of the weekly assignments, make sure to remember it.
