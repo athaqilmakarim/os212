@@ -94,3 +94,9 @@ This week we are learning about linux bootloader, here is the general explanatio
 #### 2. ***[What is Bootloader](https://linuxhint.com/what-is-a-boot-loader/)***
 Here is also a great example
 
+### WEEK 10
+#### 1. ***[Linux From Scratch Chapter 08](https://www.linuxfromscratch.org/lfs/view/11.0/chapter08/introduction.html)***
+This week we are continuing the previous week by creating the linux from scratch, here's the chapter 8.
+#### 2. ***[I/O in Operating Systems](https://www.tutorialspoint.com/operating_system/os_io_software.htm)***
+Also we are learning about I/O in operating systems, here is the explanation about I/O software in operating systems.
+
